@@ -2,7 +2,7 @@
 
 An LSTM Model for forecasting COVID-19 cases, deaths, and recoveries in Ontario as a time series.
 
-I developed this model as a part of the Carleton AI Society's [Kaggle competition](https://www.kaggle.com/c/cais-x-t1-2021/overview) modelling COVID-19 data in Canada.
+I developed this model as a part of the Carleton University AI Society's [Kaggle competition](https://www.kaggle.com/c/cais-x-t1-2021/overview) modelling COVID-19 data in Canada.
 
 I originally started off working wiht models based on scikit-learn's DecisionTrees... That is, until I realized 
 1. scikit-learn's DecisionTree implementation can't handle categorical data...
