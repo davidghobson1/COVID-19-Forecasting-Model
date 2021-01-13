@@ -13,7 +13,7 @@ but more importantly
 
 So this is my attempt to apply a more suitable model framework to the problem. 
 
-**Please note** that the **overall framework I use** to deal with time lags and input windows is **directly based on [TensorFlow's tutorial on Time Series]((https://www.tensorflow.org/tutorials/structured_data/time_series))**! It is not my original work and nor do I take credit for it! But it's suitability for the problem, not to mention its elegance and ease of use were the reasons I choose to use it. (Instead of having to re-invent the wheel... Plus, it's one heck of a great tutorial!). For the full code from the original tutorial plase see the link above.
+**Please note** that the **overall framework I use** to deal with time lags and input windows is **directly based on [TensorFlow's tutorial on Time Series](https://www.tensorflow.org/tutorials/structured_data/time_series)**! It is not my original work and nor do I take credit for it! But it's suitability for the problem, not to mention its elegance and ease of use were the reasons I choose to use it. (Instead of having to re-invent the wheel... Plus, it's one heck of a great tutorial!). For the full code from the original tutorial please see the link above.
 
 In addition to the competition datasets, I also added some more data to help with feature selection, including hospitalization rates and ICU admissions.
 That data can be found and downloaded freely from ESRI Canada [here](https://resources-covid19canada.hub.arcgis.com/datasets/provincial-daily-totals).
